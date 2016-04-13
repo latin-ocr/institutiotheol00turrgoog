@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./institutiotheol00turrgoog_0585.png"; bbox 0 0 3300 5225; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 368 2124 2770 2486">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 368 2124 2770 2486">
+     <span class='ocr_line' id='line_1_1' title="bbox 1078 2124 1950 2218; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 1078 2124 1454 2218; x_wconf 74' lang='lat' dir='ltr'><strong>Locns</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1544 2124 1950 2218; x_wconf 61' lang='lat' dir='ltr'>NONUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 368 2328 2770 2486; baseline 0.002 -30"><span class='ocrx_word' id='word_1_3' title='bbox 368 2368 509 2459; x_wconf 82' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_4' title='bbox 594 2367 1365 2486; x_wconf 78' lang='lat' dir='ltr'><strong>PECCATO,1N</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1444 2370 1909 2461; x_wconf 78' lang='lat' dir='ltr'>GENERE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1996 2368 2136 2459; x_wconf 82' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 2222 2368 2658 2463; x_wconf 67' lang='lat' dir='ltr'>SPEGIR</span> <span class='ocrx_word' id='word_1_8' title='bbox 2765 2328 2770 2335; x_wconf 77' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
